@@ -2,7 +2,7 @@ Daftar Data untuk UTS
 
 1. Dio Setiyawan (Stroke Prediction Dataset)
 2. Muhammad Rhosyid (Heart Disease UCI/Dataset UCI Penyakit Jantung)
-3. Muhammad Sigit Nurhafid (Kesehatan hewan Dataset 2021)
+3. Muhammad Sigit Nurhafid (Kesehatan hewan Dataset 2021) 
 4. Muhammad Hidayatullah (Early stage diabetes risk prediction dataset UCI Archive)
 5. Muhammad Norhalimi (brain tumor).
 6. Putri Dewi Santika (Campus Recruitment)
@@ -37,8 +37,8 @@ Daftar Data untuk UTS
 Breast cancer predictions)
 35.kadek clara maharani(hepatitis)
 36.Verucha Yuliana S. (red wine)
-37. Agus firmansyah( indonesia vaccination tweets)
+37. Agus firmansyah( indonesia vaccination tweets) 
 38. Rusdiana ulfah(Sistem Rekomendasi Destinasi Wisata Kota Bandung)
 39. Taufiqurrahman (Pixar studio movies data)
 40. Daffa Irfan Aditya (FIFA 19 analysis)
-41. Faisal Halim (Water Quality)
+41. Triantara Pujo Semedi ( Indonesia's Trending Youtube Vidio Statistics)
